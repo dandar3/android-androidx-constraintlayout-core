@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
-<project reference="1.0.1,https://github.com/dandar3/android-androidx-constraintlayout-core/tags/1.0.1,androidx-constraintlayout-core,a008fca09549001d1633ca2e20fd9066;https://github.com/dandar3/android-androidx-constraintlayout-core;https://github.com/dandar3/android-androidx-constraintlayout-core;branches;tags;trunk;true;206b0467-265e-a069-9a00-ce57b7db7bff;https://github.com/dandar3/android-androidx-constraintlayout-core;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-constraintlayout-core/tags/1.0.2,androidx-constraintlayout-core,a008fca09549001d1633ca2e20fd9066;https://github.com/dandar3/android-androidx-constraintlayout-core;https://github.com/dandar3/android-androidx-constraintlayout-core;branches;tags;trunk;true;206b0467-265e-a069-9a00-ce57b7db7bff;https://github.com/dandar3/android-androidx-constraintlayout-core;;false;;;0"/>
 </provider>
 </psf>

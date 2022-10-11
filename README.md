@@ -1,11 +1,11 @@
 ## androidx-constraintlayout-core
 
 Eclipse library project based on:<br/>
-https://maven.google.com/androidx/constraintlayout/constraintlayout-core/1.0.1/constraintlayout-core-1.0.1.jar
+https://maven.google.com/androidx/constraintlayout/constraintlayout-core/1.0.2/constraintlayout-core-1.0.2.jar
 
 **Import:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-androidx-constraintlayout-core/1.0.1/.projectset
+  https://raw.githubusercontent.com/dandar3/android-androidx-constraintlayout-core/1.0.2/.projectset
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
